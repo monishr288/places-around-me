@@ -130,5 +130,6 @@ Air:
 
 ![image](https://github.com/monishr288/places-around-me/assets/147474049/6ca76cb4-f507-4233-a2ed-9472cd0f817b)
 
+
 ## Result:
 Image-maps has been created successfully
