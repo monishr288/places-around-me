@@ -1,12 +1,27 @@
 # Places Around Me
-## AIM:
+# Name: Monish R
+# Ref: 2308248
+# Aim:
 To develop a website to display details about the places around my house.
 
-## Design Steps:
+# Design Steps:
+## Step 1
+Create a django admin interface
 
-### Step 1:
-Write your own steps here.
-### Step 2:
+## Step 2
+Download yor city from google
+
+## Step 3
+Using map create a html file
+
+## Step 4
+Create clickable regions using area tag
+
+## Step 5
+Write html programs and run it 
+
+## Step 6
+Execute the program and see the result
 
 ## Code:
 Include your HTML code here
