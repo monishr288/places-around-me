@@ -119,13 +119,16 @@ Air:
 
 ## Output:
 ![285270516-6196fb6d-003f-4ca3-a7ff-7993d58f3c52](https://github.com/monishr288/places-around-me/assets/147474049/36a7f371-3464-4113-959a-35bf26ccb3a2)
-![285267833-9012b546-d05d-465d-9aec-6d609b3ab619](https://github.com/monishr288/places-around-me/assets/147474049/dab9d539-8243-4286-a3a9-cb05b7775ba5)
-/ab6cf410-0886-44e9-a756-66bddf154bac)
-![image](https://github.com/monishr288/places-around-me/assets/147474049/1ec385d5-ad6f-4676-b46d-d2f06d7dca73)
-![image](https://github.com/monishr288/places-around-me/assets/147474049/f7929051-4f32-434b-ae7e-454c2b2caaa4)
-![image](https://github.com/monishr288/places-around-me/assets/147474049/b65718fe-7237-411a-9d40-90f6a3e2ffc9)
-![image](https://github.com/monishr288/places-around-me/assets/147474049/6ca76cb4-f507-4233-a2ed-9472cd0f817b)
 
+![285267833-9012b546-d05d-465d-9aec-6d609b3ab619](https://github.com/monishr288/places-around-me/assets/147474049/dab9d539-8243-4286-a3a9-cb05b7775ba5)
+
+![image](https://github.com/monishr288/places-around-me/assets/147474049/1ec385d5-ad6f-4676-b46d-d2f06d7dca73)
+
+![image](https://github.com/monishr288/places-around-me/assets/147474049/f7929051-4f32-434b-ae7e-454c2b2caaa4)
+
+![image](https://github.com/monishr288/places-around-me/assets/147474049/b65718fe-7237-411a-9d40-90f6a3e2ffc9)
+
+![image](https://github.com/monishr288/places-around-me/assets/147474049/6ca76cb4-f507-4233-a2ed-9472cd0f817b)
 
 ## Result:
 Image-maps has been created successfully
