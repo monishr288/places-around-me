@@ -24,10 +24,8 @@ Write html programs and run it
 Execute the program and see the result
 
 ## Code:
-Include your HTML code here
 
 ## Output:
-Include your output screenshot here
 
 ## Result:
-Write your result
+Image-maps has been created successfully
